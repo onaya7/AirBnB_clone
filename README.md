@@ -47,5 +47,5 @@ $
   ![image](https://user-images.githubusercontent.com/99324596/182841460-aac860d2-4275-4bb1-8a1a-d7d9ebf3eb6b.png)
 
 # AUTHORS
-  Samuel Ayano <samuelayano7@gmail.com>
-  PETER PETER <> 
+  Joy Gundu (cryptocurrencydiva@gmail.com) - Twitter: CryptoDivanaija
+  Ayodele Oyesanya (oyesanyaayodele15@gmail.com) 
