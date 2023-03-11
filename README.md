@@ -48,4 +48,4 @@ $
 
 # AUTHORS
   Samuel Ayano <samuelayano7@gmail.com>
-  PETER PETER <> 
+  Ishado Peter  <peter.ishado@gmail.com> 
