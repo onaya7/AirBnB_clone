@@ -15,8 +15,11 @@ body {
 }
 
 .container {
+    position: relative;
     max-width: 1000px;
-    margin: 30px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
 }
 
 h4 {

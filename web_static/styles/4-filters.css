@@ -1,5 +1,5 @@
 .filters {
-    background: white;
+    background-color: white;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
@@ -20,6 +20,7 @@
     margin-right: 30px;
     margin-left: auto;
     outline: none;
+    top: 11px;
 }
 
 .filters button:hover {

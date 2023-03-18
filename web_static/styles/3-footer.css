@@ -10,3 +10,7 @@ footer {
     box-sizing: border-box;
     position: absolute;
 }
+p {
+    text-align: center;
+    line-height: 30px;
+}
