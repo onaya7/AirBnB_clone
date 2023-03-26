@@ -21,7 +21,9 @@ div.container section.filters button{
 }
 
 body div.container section.filters button:hover {
-    opacity: 90%;
+    opacity: 60%;
+    background-color: bisque;
+    color: aqua;
 }
 
 div.container section.filters div {
